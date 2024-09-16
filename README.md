@@ -1,0 +1,1 @@
+GoIT javascript seventh homework
